@@ -1,0 +1,14 @@
+C:\Users\HighestInARoom\source\repos\ClientProgram\bin\Debug\ClientProgram.exe.config
+C:\Users\HighestInARoom\source\repos\ClientProgram\bin\Debug\ClientProgram.exe
+C:\Users\HighestInARoom\source\repos\ClientProgram\bin\Debug\ClientProgram.pdb
+C:\Users\HighestInARoom\source\repos\ClientProgram\obj\Debug\ClientProgram.csproj.AssemblyReference.cache
+C:\Users\HighestInARoom\source\repos\ClientProgram\obj\Debug\ClientProgram.csproj.CoreCompileInputs.cache
+C:\Users\HighestInARoom\source\repos\ClientProgram\obj\Debug\ClientProgram.exe
+C:\Users\HighestInARoom\source\repos\ClientProgram\obj\Debug\ClientProgram.pdb
+C:\Users\HighestInARoom\source\repos\ClientSideProg\ClientProgram\bin\Debug\ClientProgram.exe.config
+C:\Users\HighestInARoom\source\repos\ClientSideProg\ClientProgram\bin\Debug\ClientProgram.exe
+C:\Users\HighestInARoom\source\repos\ClientSideProg\ClientProgram\bin\Debug\ClientProgram.pdb
+C:\Users\HighestInARoom\source\repos\ClientSideProg\ClientProgram\obj\Debug\ClientProgram.csproj.AssemblyReference.cache
+C:\Users\HighestInARoom\source\repos\ClientSideProg\ClientProgram\obj\Debug\ClientProgram.csproj.CoreCompileInputs.cache
+C:\Users\HighestInARoom\source\repos\ClientSideProg\ClientProgram\obj\Debug\ClientProgram.exe
+C:\Users\HighestInARoom\source\repos\ClientSideProg\ClientProgram\obj\Debug\ClientProgram.pdb

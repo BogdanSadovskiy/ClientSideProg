@@ -1,0 +1,10 @@
+C:\Users\HighestInARoom\source\repos\ClientSideProg\bin\Debug\ClientSideProg.exe.config
+C:\Users\HighestInARoom\source\repos\ClientSideProg\bin\Debug\ClientSideProg.exe
+C:\Users\HighestInARoom\source\repos\ClientSideProg\bin\Debug\ClientSideProg.pdb
+C:\Users\HighestInARoom\source\repos\ClientSideProg\obj\Debug\ClientSideProg.csproj.AssemblyReference.cache
+C:\Users\HighestInARoom\source\repos\ClientSideProg\obj\Debug\ClientSideProg.Form1.resources
+C:\Users\HighestInARoom\source\repos\ClientSideProg\obj\Debug\ClientSideProg.Properties.Resources.resources
+C:\Users\HighestInARoom\source\repos\ClientSideProg\obj\Debug\ClientSideProg.csproj.GenerateResource.cache
+C:\Users\HighestInARoom\source\repos\ClientSideProg\obj\Debug\ClientSideProg.csproj.CoreCompileInputs.cache
+C:\Users\HighestInARoom\source\repos\ClientSideProg\obj\Debug\ClientSideProg.exe
+C:\Users\HighestInARoom\source\repos\ClientSideProg\obj\Debug\ClientSideProg.pdb
